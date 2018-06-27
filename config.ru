@@ -1,6 +1,6 @@
 # Write your code here!
 require 'sinatra'
 
-require_relativec './app'
+require_relative './app'
 
 run Application
